@@ -90,7 +90,5 @@ Head
   <img src="pngs/output.png" alt="Prediction" width="600">
 </p>
 
-> *Add your own comparison figure at `results/model_results.png`.*
-
 
 
