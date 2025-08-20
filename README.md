@@ -87,7 +87,7 @@ Head
 
 
 <p align="center">
-  <img src="pngs/output.png" alt="Prediction" width="800" length=600>
+  <img src="pngs/output.png" alt="Prediction" width="1000" length=1000>
 </p>
 
 
